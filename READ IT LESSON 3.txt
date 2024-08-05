@@ -1,0 +1,1 @@
+Dodaj do lekcji 3 ilość prob, i granie kostka, jeśli przegrasz 3xd z rzedy w gre kostka, to  poddaj sie, podziękuj i oddaj mu 250 euro! w programie ;P 
